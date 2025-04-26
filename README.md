@@ -57,6 +57,5 @@ Feel free to use, modify, and share with appropriate credit.
 
 ---
 
-## 👨‍💻 Author
 
-Your Name – [GitHub](#) • [LinkedIn](#) • [Portfolio](#)
+
