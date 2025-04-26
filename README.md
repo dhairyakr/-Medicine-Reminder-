@@ -41,13 +41,12 @@ A smart and intuitive mobile application built with **TypeScript** to help users
 ## ⚙️ Tech Stack
 
 - **Language**: TypeScript – Static typing for improved reliability and developer experience  
-- **Frontend Framework**: React Native – Cross-platform development for iOS and Android  
 - **State Management**: React Context API / Redux Toolkit – For efficient global state handling  
 - **Database**: Firebase Firestore – Real-time NoSQL database for storing medicine schedules  
 - **Notifications**: Expo Notifications – For scheduling local and push alerts  
 - **Authentication**: Firebase Auth – Secure user sign-up and login  
 - **Styling**: Styled Components / Tailwind for React Native – Clean and consistent UI design  
-- **Deployment**: Expo Go / Play Store / App Store – For testing and publishing
+
 
 ---
 
