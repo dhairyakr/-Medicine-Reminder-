@@ -2,7 +2,6 @@
 
 A smart and intuitive mobile application built with **TypeScript** to help users efficiently manage their daily medication schedules. The app ensures users never miss a dose by providing timely reminders, dosage tracking, and a clear overview of upcoming medications. Designed with user accessibility and health consistency in mind.
 
-🔗 Live Demo: https://playful-dasik-062011.netlify.app/
 
 ---
 
